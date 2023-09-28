@@ -128,4 +128,4 @@ fabric.properties
 # Ignore all local history of files
 .history
 
-# End of https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode
+# End of https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode*.csv
